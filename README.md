@@ -12,6 +12,7 @@ Each lab builds on the one before it. Start from Lab 1 and work your way forward
 |---|-------|--------|
 | [Lab 1](Lab%201/) | Build Your First AI Agent | Anthropic client, system prompts, conversation history, chat loop |
 | [Lab 2](Lab%202/) | Understand the Backend & the API | API response structure, tokens, temperature, history inspection, cost |
+| [Lab 3](Lab%203/) | Build a Goal-Based AI Agent *(Mini Project 1)* | System prompt design, structured output, session goals, scoring, /summary |
 
 ---
 
