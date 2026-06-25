@@ -14,6 +14,8 @@ Each lab builds on the one before it. Start from Lab 1 and work your way forward
 | [Lab 2](Lab%202/) | Understand the Backend & the API | API response structure, tokens, temperature, history inspection, cost |
 | [Lab 3](Lab%203/) | Build a Goal-Based AI Agent *(Mini Project 1)* | System prompt design, structured output, session goals, scoring, /summary |
 | [Lab 4](Lab%204/) | Build a Frontend UI with Bolt.new *(Mini Project 2 — start)* | Bolt prompting, deploy to public URL, read AI-generated code, multi-persona toggle |
+| [Lab 5](Lab%205/) | Customize & Extend Your Bolt App | Code reading, loading states, error handling, second agent tab, copy + export features |
+| [Lab 6](Lab%206/) | Prompt Engineering for Product Builders *(Mini Project 2 — end)* | Role definition, structured output, few-shot examples, chain-of-thought, A/B testing |
 
 ---
 
