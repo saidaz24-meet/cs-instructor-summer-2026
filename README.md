@@ -16,6 +16,9 @@ Each lab builds on the one before it. Start from Lab 1 and work your way forward
 | [Lab 4](Lab%204/) | Build a Frontend UI with Bolt.new *(Mini Project 2 — start)* | Bolt prompting, deploy to public URL, read AI-generated code, multi-persona toggle |
 | [Lab 5](Lab%205/) | Customize & Extend Your Bolt App | Code reading, loading states, error handling, second agent tab, copy + export features |
 | [Lab 6](Lab%206/) | Prompt Engineering for Product Builders *(Mini Project 2 — end)* | Role definition, structured output, few-shot examples, chain-of-thought, A/B testing |
+| [Lab 7](Lab%207/) | Add Persistent Memory | JSON file persistence, session support, Supabase cloud storage, SQL queries |
+| [Lab 8](Lab%208/) | Plan and Architect Your Final Project | Project definition, agent design, architecture diagram, task list |
+| [Lab 9](Lab%209/) | Deploy Your App to the Internet *(Final Project)* | Multi-agent Bolt app, launch checklist, public deployment, showcase prep |
 
 ---
 
